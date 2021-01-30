@@ -1,6 +1,6 @@
 # URL Shortener API
 
-A URL Shortener API made with Node.js and Express/
+A URL Shortener API made with Node.js and Express.
 
 ## Home Route
 
